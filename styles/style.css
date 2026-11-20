@@ -1,3 +1,12 @@
 h1 {
   font-family: "Times New Roman";
 }
+th, td {
+  border: 1px solid;
+}
+th.corner {
+  background-color: #9e9e9e;
+}
+abbr {
+  cursor: help;
+}
