@@ -20,6 +20,9 @@ pre {
   background-color: #dedede;
   font-family: "Courier New";
 }
+footer {
+  background-color: #f0dfa8;
+}
 abbr {
   cursor: help;
 }
