@@ -1,11 +1,24 @@
-h1 {
-  font-family: "Times New Roman";
+body {
+  font-family: "Trebuchet MS";
+}
+h1, h2 {
+  font-family: "Georgia";
+}
+typo {
+  text-decoration: wavy overline red;
 }
 th, td {
   border: 1px solid;
 }
+td {
+  text-align: center;
+}
 th.corner {
   background-color: #9e9e9e;
+}
+pre {
+  background-color: #dedede;
+  font-family: "Courier New";
 }
 abbr {
   cursor: help;
