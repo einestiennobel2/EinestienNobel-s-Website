@@ -13,6 +13,9 @@ th, td {
 td {
   text-align: center;
 }
+th {
+  background-color: #c7c7c7;
+}
 th.corner {
   background-color: #9e9e9e;
 }
