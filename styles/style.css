@@ -24,10 +24,10 @@ table.infobox {
   border-collapse: collapse;
 }
 .ipa_brackets::before {
-  content: [;
+  content: "[";
 }
 .ipa_brackets::after {
-  content: ];
+  content: "]";
 }
 pre {
   background-color: #dedede;
