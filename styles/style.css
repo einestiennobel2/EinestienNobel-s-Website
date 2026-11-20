@@ -16,6 +16,16 @@ td {
 th.corner {
   background-color: #9e9e9e;
 }
+table.infobox {
+  float: left;
+  border-collapse: collapse;
+}
+.ipa_brackets::before {
+  content: [;
+}
+.ipa_brackets::after {
+  content: ];
+}
 pre {
   background-color: #dedede;
   font-family: "Courier New";
