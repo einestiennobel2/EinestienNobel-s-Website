@@ -1,8 +1,6 @@
 li.domain::before {
   content: "Domain ";
-  font-style: bold;
 }
 li.kingdom::before {
   content: "Kingdom ";
-  font-style: bold;
 }
