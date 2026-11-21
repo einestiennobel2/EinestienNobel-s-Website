@@ -29,6 +29,24 @@ table.infobox {
 .ipa_brackets::after {
   content: "]";
 }
+.ipa_slash::before {
+  content: "/";
+}
+.ipa_slash::after {
+  content: "/";
+}
+.ipa_braces::before {
+  content: "\{";
+}
+.ipa_braces::after {
+  content: "\}";
+}
+.ipa_parens::before {
+  content: "\(";
+}
+.ipa_parens::after {
+  content: "\)";
+}
 pre {
   background-color: #dedede;
   font-family: "Courier New";
