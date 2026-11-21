@@ -1,0 +1,12 @@
+ul.domain::before {
+  content: "Domain ";
+}
+ul.domain {
+  font-style: bold;
+}
+ul.kingdom::before {
+  content: "Kingdom ";
+}
+ul.kingdom {
+  font-style: bold;
+}
