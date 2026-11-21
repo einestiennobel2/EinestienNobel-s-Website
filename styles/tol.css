@@ -1,12 +1,8 @@
 li.domain::before {
   content: "Domain ";
-}
-li.domain {
   font-style: bold;
 }
 li.kingdom::before {
   content: "Kingdom ";
-}
-li.kingdom {
   font-style: bold;
 }
