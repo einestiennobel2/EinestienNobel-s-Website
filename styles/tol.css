@@ -1,6 +1,38 @@
 li.domain::before {
   content: "Domain ";
+  font-style: bold;
 }
 li.kingdom::before {
   content: "Kingdom ";
+  font-style: bold;
+}
+li.phylum::before {
+  content: "Phylum ";
+  font-style: bold;
+}
+li.class::before {
+  content: "Class ";
+  font-style: bold;
+}
+li.order::before {
+  content: "Order ";
+  font-style: bold;
+}
+li.family::before {
+  content: "Family ";
+  font-style: bold;
+}
+li.genus::before {
+  content: "Genus ";
+  font-style: bold;
+}
+li.genus {
+  font-style: italic;
+}
+li.species::before {
+  content: "Species ";
+  font-style: bold;
+}
+li.species {
+  font-style: italic;
 }
