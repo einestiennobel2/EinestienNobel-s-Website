@@ -1,38 +1,38 @@
-li.domain::before {
+span.domain::before {
   content: "Domain ";
   font-style: bold;
 }
-li.kingdom::before {
+span.kingdom::before {
   content: "Kingdom ";
   font-style: bold;
 }
-li.phylum::before {
+span.phylum::before {
   content: "Phylum ";
   font-style: bold;
 }
-li.class::before {
+span.class::before {
   content: "Class ";
   font-style: bold;
 }
-li.order::before {
+span.order::before {
   content: "Order ";
   font-style: bold;
 }
-li.family::before {
+span.family::before {
   content: "Family ";
   font-style: bold;
 }
-li.genus::before {
+span.genus::before {
   content: "Genus ";
   font-style: bold;
 }
-li.genus {
+span.genus {
   font-style: italic;
 }
-li.species::before {
+span.species::before {
   content: "Species ";
   font-style: bold;
 }
-li.species {
+span.species {
   font-style: italic;
 }
