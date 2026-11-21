@@ -1,37 +1,37 @@
 span.domain::before {
   content: "Domain ";
-  font-style: bold;
+  font-weight: bold;
 }
 span.kingdom::before {
   content: "Kingdom ";
-  font-style: bold;
+  font-weight: bold;
 }
 span.phylum::before {
   content: "Phylum ";
-  font-style: bold;
+  font-weight: bold;
 }
 span.class::before {
   content: "Class ";
-  font-style: bold;
+  font-weight: bold;
 }
 span.order::before {
   content: "Order ";
-  font-style: bold;
+  font-weight: bold;
 }
 span.family::before {
   content: "Family ";
-  font-style: bold;
+  font-weight: bold;
 }
 span.genus::before {
   content: "Genus ";
-  font-style: bold;
+  font-weight: bold;
 }
 span.genus {
   font-style: italic;
 }
 span.species::before {
   content: "Species ";
-  font-style: bold;
+  font-weight: bold;
 }
 span.species {
   font-style: italic;
