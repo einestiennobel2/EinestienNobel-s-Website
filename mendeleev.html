@@ -4,10 +4,26 @@
     <link href="styles/style.css" rel="stylesheet">
     <title>Mendeleev</title>
     <meta charset="UTF-8">
+    <style>
+      #elements {
+        border: 1px solid;
+        padding: 1em;
+        border-radius: 25px;
+        overflow: auto;
+        height: 12em
+      }
+      #info {
+        border: 1px dashed;
+        padding: 1em;
+        border-radius: 25px;
+        height: 20em;
+        overflow: auto;
+      }
+    </style>
   </head>
   <body>
     <h1>Mendeleev</h1>
-    <div style="border: 1px solid; padding: 1em; border-radius: 25px; overflow: auto; height: 12em">Elements</div>
-    <div style="border: 1px dashed; padding: 1em; border-radius: 25px; overflow: auto; height: 20em">Info</div>
+    <div id="elements">Elements</div>
+    <div id="info">Info</div>
   </body>
 </html>
