@@ -1,7 +1,7 @@
 /* Template definitions */
 class ConstantFooter extends HTMLElement {
   constructor() {
-    this.innerHTML = `<footer>&copy; 2026 Scringle Things. All rights reserved.</footer>`;
+    this.innerHTML = `<footer><p>&copy; 2026 Scringle Things. All rights reserved.</p></footer>`;
   }
 }
 
